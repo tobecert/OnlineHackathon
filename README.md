@@ -1,2 +1,0 @@
-# OnlineHackathon
-App development
